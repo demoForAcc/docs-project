@@ -1,0 +1,6 @@
+site_name: Mini Docs Project
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - API: api.md
