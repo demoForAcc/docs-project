@@ -38,10 +38,7 @@ plugins:
 
 
 extra:
- # social:
- #   - icon: fontawesome/brands/github
- #     link: https://github.com/demoForAcc/docs-project
- #     name: My GitHub
+
 announcements:
     - type: info
       text: This is an info announcement.My changes for now!!
