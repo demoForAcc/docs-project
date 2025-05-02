@@ -20,5 +20,10 @@ This is a demo of how we use MkDocs + CI/CD to deploy real project documentation
 - Auto-deployment via GitHub Actions
 
 
+### Welcome to My Docs
+
+This is a test update to trigger deployment.
+
+
 ### Another Trigger test
 - This is a another test of the CI/CD pipeline.
