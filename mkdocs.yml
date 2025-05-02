@@ -1,6 +1,48 @@
 site_name: Mini Docs Project
+theme:
+  name: material
+  logo: images/logo.png
+  favicon: images/favicon.ico
+  icon:
+    repo: fontawesome/brands/github
+  plugin:
+    - search.highlight: true
+    - search.suggest: true
+    - search.language: en
+  palette:
+    primary: 'green'
+    accent: 'blue'
+  font:
+    text: Roboto
+    code: Fira Code
+  search: true
+  features:
+  
+    navigation.expand: true
+    navigation.tabs: true  
+    navigation.sections: true  
+    
 
 nav:
   - Home: index.md
   - About: about.md
   - API: api.md
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+
+plugins:
+  - search
+  
+
+
+extra:
+ # social:
+ #   - icon: fontawesome/brands/github
+ #     link: https://github.com/demoForAcc/docs-project
+ #     name: My GitHub
+announcements:
+    - type: info
+      text: This is an info announcement.My changes for now!!
+      link: https://example.com
