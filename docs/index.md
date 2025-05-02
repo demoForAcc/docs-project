@@ -18,3 +18,8 @@ This is a demo of how we use MkDocs + CI/CD to deploy real project documentation
 ## Project Goals
 - Clean docs in Markdown
 - Auto-deployment via GitHub Actions
+
+
+### Welcome to My Docs
+
+This is a test update to trigger deployment.
