@@ -35,11 +35,3 @@ markdown_extensions:
 plugins:
   - search
   
-
-
-extra:
-
-announcements:
-    - type: info
-      text: This is an info announcement.My changes for now!!
-      link: https://example.com
