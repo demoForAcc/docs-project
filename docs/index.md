@@ -18,3 +18,7 @@ This is a demo of how we use MkDocs + CI/CD to deploy real project documentation
 ## Project Goals
 - Clean docs in Markdown
 - Auto-deployment via GitHub Actions
+
+
+### Another Trigger test
+- This is a another test of the CI/CD pipeline.
